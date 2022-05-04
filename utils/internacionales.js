@@ -1,4 +1,4 @@
-export const momos = [
+export const internacionales = [
     {
       "nombre": "Villarreal 2-3 Liverpool: resumen, goles y resultado del aprtido",
       "imagen": "./img/1.jpg",
@@ -27,7 +27,7 @@ export const momos = [
       "nombre": "El centrocampista de 70 millones del que nadie habla",
       "imagen": "./img/5.jpg",
       "enlace":
-        "https://www.marca.com/futbol/liga-italiana/2022/05/03/627100c1e2704e0bb38b45a6.html,
+        "https://www.marca.com/futbol/liga-italiana/2022/05/03/627100c1e2704e0bb38b45a6.html",
     },
     {
       "nombre": "Nada puede malir sal",
